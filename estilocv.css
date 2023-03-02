@@ -1,0 +1,28 @@
+
+
+
+* {
+    color: blue;
+}
+
+* button {
+    color: royalblue;
+}
+
+* ul {
+    color: brown;
+}
+
+#lista {
+    display: none;
+}
+#lista1 {
+    display: none;
+}
+
+#lista2 {
+    display: none;
+}
+
+
+
